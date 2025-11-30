@@ -5,7 +5,7 @@ Gathering information about where to migrate to is an important component of the
 
 
 ## Citation  
-Vieira, C. C., Sanlitürk, E., \& Zagheni, E. (2026). \*Forced Migration and Information-Seeking Behavior on Wikipedia: Insights from the Ukrainian Refugee Crisis.\* In the Proceedings of the 20th International Conference on Web and Social Media (ICWSM).
+Vieira, C. C., Sanlitürk, E., \& Zagheni, E. (2026). "Forced Migration and Information-Seeking Behavior on Wikipedia: Insights from the Ukrainian Refugee Crisis." In the Proceedings of the 20th International Conference on Web and Social Media (ICWSM).
 
 
 
