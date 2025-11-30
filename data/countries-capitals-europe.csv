@@ -1,0 +1,57 @@
+,country,capital,language
+0,Netherlands,Amsterdam,"['Dutch; Flemish', 'Western Frisian']"
+1,Andorra,Andorra la Vella,['Catalan; Valencian']
+2,Greece,Athens,"['Greek, Modern (1453-)']"
+3,Azerbaijan,Baku,['Azerbaijani']
+4,Northern Ireland,Belfast,['Irish']
+5,Serbia,Belgrade,['Serbian']
+6,Germany,Berlin,['German']
+7,Switzerland,Bern,"['French', 'German', 'Italian', 'Romansh']"
+8,Slovakia,Bratislava,['Slovak']
+9,Belgium,Brussels,"['Dutch; Flemish', 'French', 'German']"
+10,Romania,Bucharest,['Romanian; Moldavian; Moldovan']
+11,Hungary,Budapest,['Hungarian']
+12,Wales,Cardiff,['Welsh']
+13,Moldova,Chișinău,['Romanian; Moldavian; Moldovan']
+14,Denmark,Copenhagen,['Danish']
+15,Ireland,Dublin,"['Irish', 'English']"
+16,Scotland,Edinburgh,"['Scots', 'Gaelic; Scottish Gaelic']"
+17,Finland,Helsinki,"['Finnish', 'Swedish']"
+18,Ukraine,Kyiv,['Ukrainian']
+19,Portugal,Lisbon,['Portuguese']
+20,Slovenia,Ljubljana,['Slovenian']
+21,United Kingdom,London,['English']
+22,Luxembourg,Luxembourg City,"['French', 'German', 'Luxembourgish; Letzeburgesch']"
+23,Spain,Madrid,['Spanish; Castilian']
+24,Belarus,Minsk,"['Belarusian', 'Russian']"
+25,Monaco,Monaco,['French']
+26,Russia,Moscow,['Russian']
+27,Greenland,Nuuk,['Kalaallisut; Greenlandic']
+28,Norway,Oslo,"['Bokmål, Norwegian; Norwegian Bokmål', 'Northern Sami']"
+29,France,Paris,['French']
+30,Montenegro,Podgorica,['Montenegrin']
+31,Czech Republic,Prague,"['Czech', 'Slovak']"
+32,Kosovo,Pristina,"['Albanian', 'Serbian']"
+33,Iceland,Reykjavík,['Icelandic']
+34,Latvia,Riga,['Latvian']
+35,Italy,Rome,['Italian']
+36,San Marino,City of San Marino,['Italian']
+37,Bosnia and Herzegovina,Sarajevo,"['Bosnian', 'Croatian', 'Serbian']"
+38,North Macedonia,Skopje,"['Macedonian', 'Albanian']"
+39,Bulgaria,Sofia,['Bulgarian']
+40,Sweden,Stockholm,['Swedish']
+41,Abkhazia,Sukhumi,"['Abkhazian', 'Russian']"
+42,Estonia,Tallinn,['Estonian']
+43,Georgia,Tbilisi,['Georgian']
+44,Albania,Tirana,['Albanian']
+45,Faroe Islands,Tórshavn,['Faroese']
+46,Liechtenstein,Vaduz,['German']
+47,Malta,Valletta,"['Maltese', 'English']"
+48,Austria,Vienna,['German']
+49,Lithuania,Vilnius,['Lithuanian']
+50,Poland,Warsaw,['Polish']
+51,Croatia,Zagreb,['Croatian']
+52,Cyprus,Nicosia,"['Greek, Modern (1453-)', 'Turkish']"
+53,Gibraltar,Gibraltar,['English']
+54,Turkey,Ankara,['Turkish']
+55,Vatican City,Vatican City,['Italian']
