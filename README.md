@@ -10,12 +10,12 @@ If the results from our paper are useful for your own research, please cite our 
 Vieira, C. C., Sanlitürk, E., \& Zagheni, E. (2026). *"Forced Migration and Information-Seeking Behavior on Wikipedia: Insights from the Ukrainian Refugee Crisis."* In the Proceedings of the 20th International Conference on Web and Social Media (ICWSM).
 
 ```bibtex
-@article{wang2026wisdom,
-  title={Wisdom of the LLM Crowd: A Large Scale Benchmark of Multi-Label US Election-Related Harmful Social Media Content},
-  author={Wang, Qile and Khatiwada, Prerana and Vieira, Carolina Coimbra and Bagozzi, Benjamin E and Barner, Kenneth E and Mauriello, Matthew Louis},
-  journal={arXiv preprint arXiv:2602.11962},
-  year={2026}
-}
+@inproceedings{vieira2026forced,
+    title={Forced Migration and Information-Seeking Behavior on Wikipedia: Insights from the Ukrainian Refugee Crisis},
+    author={Vieira, Carolina Coimbra and Sanliturk, Ebru and Zagheni, Emilio},
+    booktitle={Proceedings of the 20th International Conference on Web and Social Media},
+    year={2026}
+  }
 ```
 
 
